@@ -1,0 +1,13 @@
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\obj\Debug\netcoreapp3.1\Day 2 Lab.csprojAssemblyReference.cache
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\obj\Debug\netcoreapp3.1\Day 2 Lab.AssemblyInfoInputs.cache
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\obj\Debug\netcoreapp3.1\Day 2 Lab.AssemblyInfo.cs
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\obj\Debug\netcoreapp3.1\Day 2 Lab.csproj.CoreCompileInputs.cache
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\bin\Debug\netcoreapp3.1\Day 2 Lab.exe
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\bin\Debug\netcoreapp3.1\Day 2 Lab.deps.json
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\bin\Debug\netcoreapp3.1\Day 2 Lab.runtimeconfig.json
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\bin\Debug\netcoreapp3.1\Day 2 Lab.runtimeconfig.dev.json
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\bin\Debug\netcoreapp3.1\Day 2 Lab.dll
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\bin\Debug\netcoreapp3.1\Day 2 Lab.pdb
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\obj\Debug\netcoreapp3.1\Day 2 Lab.dll
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\obj\Debug\netcoreapp3.1\Day 2 Lab.pdb
+C:\Users\spcav\source\repos\Day 2 Lab\Day 2 Lab\obj\Debug\netcoreapp3.1\Day 2 Lab.genruntimeconfig.cache
